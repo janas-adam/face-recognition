@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "face_recognition"
+version = "0.1.0"
+description = "some cool face recognition stuff"
+authors = ["a.janas <a.janas@protonmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+numpy = "^1.20.2"
+Pillow = "^8.2.0"
+cmake = "^3.18.4"
+dlib = "^19.22.0"
+face_recognition_models = "^0.3.0"
+opencv-python = "^4.5.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
