@@ -17,6 +17,11 @@ Literally you can:
 - detect faces on captured video by drawing frame on recognized face object
 - identify faces on captured video simultaneously showing assigned name to recognizable object
 
+fe. take a look how mr. jobs is recognized
+
+![image](https://github.com/adamjanas/face_recognition/assets/48211033/f5f22d09-5ad6-40b9-bf5d-aeb8d395d58f)
+
+
 ## Firstly
 [poetry](https://python-poetry.org) is a package-manager tool of the project.
 
